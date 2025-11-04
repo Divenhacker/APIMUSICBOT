@@ -1,5 +1,5 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+    "name": "𝑽𝒐𝒊𝒍𝒆𝒕 𝑬𝒗𝒆𝒓𝒈𝒂𝒓𝒅𝒆𝒏🎗️",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
     "keywords": [
@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "21846639",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "2cebc99bd8378b5237b31ea8e7496d79",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "8519095394:AAE-i4QvMSERhta2mCU_l851EKmHjoLejsw",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://kiritodeveloperkai_db_user:<db_password>@cluster0.2j2bi0o.mongodb.net/?appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "1499705163",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "",
+        "value": "BQFNWm8AUjQig9RXtlo-DiR9dIyv5HmWI8DgkJxYnaOBov0t1np9UBa6lRZVwqV9J1_MHnNsGIjqQYwRaewhWY3QvTYi14lFeWISC0e0CegTippnetmE44olgy0IbREyM7DZ6FvTlGXnL-J3Eyv0Q7UHzh3BZ68k2hxEdtEztrBeyAAEP61XD3mLCjlB0VIDb5IgjxARSTMRgVISOCPvm1mML7cJDzTxG74XM5Qh8yoeC_Ls4txEISNagFVEp1w_Ime2OaIq7nlGSDnjIm1MiimtLJRtePNZnVoCVHwPGMY_DUpTfEoYCiOuTCv5H42bzPofBci5RtuV9Uw1C8fPhd-GANxQ6AAAAABsFeBfAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1003119971734",
         "required": true
       },
       "BASE_API_URL": {
@@ -64,7 +64,7 @@
       },
       "BASE_API_KEY": {
         "description": "your song api key",
-        "value": "",
+        "value": "CeXY5r3HH3yyPMICJ93FfgzCI12C6fzn",
         "required": true
       }
 
